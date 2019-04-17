@@ -1,6 +1,6 @@
 
 # make sure you have the most recent versions of the packages
-install.packages(c("tidyverse","tidyr","readr","readxl","forcats","glue","janitor"))
+install.packages(c("tidyverse","lubridate","tidyr","readr","readxl","forcats","glue","janitor"))
 
 library(tidyverse)
 library(lubridate)
